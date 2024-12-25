@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/862646387891871169/ca91e46b164d464e8cb7040eb51581c1/artifacts
+deleted_time: 1735128604472
+end_time: 1735128464016
+entry_point_name: ''
+experiment_id: '862646387891871169'
+lifecycle_stage: deleted
+run_id: ca91e46b164d464e8cb7040eb51581c1
+run_name: polite-penguin-936
+run_uuid: ca91e46b164d464e8cb7040eb51581c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735128462781
+status: 4
+tags: []
+user_id: AKASH

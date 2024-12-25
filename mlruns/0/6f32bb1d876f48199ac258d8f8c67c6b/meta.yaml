@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6f32bb1d876f48199ac258d8f8c67c6b/artifacts
+deleted_time: 1735085126947
+end_time: 1735085059218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6f32bb1d876f48199ac258d8f8c67c6b
+run_name: masked-goose-255
+run_uuid: 6f32bb1d876f48199ac258d8f8c67c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735085059102
+status: 3
+tags: []
+user_id: AKASH

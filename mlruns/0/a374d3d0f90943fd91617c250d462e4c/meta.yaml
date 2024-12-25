@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a374d3d0f90943fd91617c250d462e4c/artifacts
+end_time: 1735085034142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a374d3d0f90943fd91617c250d462e4c
+run_name: capable-skink-404
+run_uuid: a374d3d0f90943fd91617c250d462e4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735085033974
+status: 3
+tags: []
+user_id: AKASH

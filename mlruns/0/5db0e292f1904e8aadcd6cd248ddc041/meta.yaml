@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5db0e292f1904e8aadcd6cd248ddc041/artifacts
+end_time: 1735085739269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5db0e292f1904e8aadcd6cd248ddc041
+run_name: unleashed-shrimp-840
+run_uuid: 5db0e292f1904e8aadcd6cd248ddc041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735085736482
+status: 4
+tags: []
+user_id: AKASH

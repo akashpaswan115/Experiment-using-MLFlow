@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5984d5fddfc5451687557a6e2b7caa1e/artifacts
+end_time: 1735084561625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5984d5fddfc5451687557a6e2b7caa1e
+run_name: sneaky-ram-151
+run_uuid: 5984d5fddfc5451687557a6e2b7caa1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735084561232
+status: 3
+tags: []
+user_id: AKASH

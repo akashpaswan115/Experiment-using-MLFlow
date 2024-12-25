@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/862646387891871169/530a6ae546bd40f482ea8cf18bab3f95/artifacts
+end_time: 1735128549240
+entry_point_name: ''
+experiment_id: '862646387891871169'
+lifecycle_stage: active
+run_id: 530a6ae546bd40f482ea8cf18bab3f95
+run_name: peaceful-elk-864
+run_uuid: 530a6ae546bd40f482ea8cf18bab3f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735128513567
+status: 3
+tags: []
+user_id: AKASH
