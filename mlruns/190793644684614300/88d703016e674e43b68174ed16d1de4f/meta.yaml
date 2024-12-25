@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/88d703016e674e43b68174ed16d1de4f/artifacts
+end_time: 1735137439614
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 88d703016e674e43b68174ed16d1de4f
+run_name: thoughtful-tern-340
+run_uuid: 88d703016e674e43b68174ed16d1de4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137439473
+status: 3
+tags: []
+user_id: AKASH

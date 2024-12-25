@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/30121e93688140749f10fa4becf88a60/artifacts
+end_time: 1735137724114
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 30121e93688140749f10fa4becf88a60
+run_name: awesome-worm-788
+run_uuid: 30121e93688140749f10fa4becf88a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137723994
+status: 3
+tags: []
+user_id: AKASH

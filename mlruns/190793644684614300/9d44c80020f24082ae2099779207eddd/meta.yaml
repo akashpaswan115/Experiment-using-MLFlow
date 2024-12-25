@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/9d44c80020f24082ae2099779207eddd/artifacts
+end_time: 1735137455342
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 9d44c80020f24082ae2099779207eddd
+run_name: youthful-cow-338
+run_uuid: 9d44c80020f24082ae2099779207eddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137435533
+status: 3
+tags: []
+user_id: AKASH

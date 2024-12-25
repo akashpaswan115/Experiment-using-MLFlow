@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/cc8db4ac4b4e420ebada95da44310dd5/artifacts
+end_time: 1735137723968
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: cc8db4ac4b4e420ebada95da44310dd5
+run_name: secretive-loon-849
+run_uuid: cc8db4ac4b4e420ebada95da44310dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137723844
+status: 3
+tags: []
+user_id: AKASH

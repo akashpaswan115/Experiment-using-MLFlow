@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/6d2171c3de85412db27eec9b4014405c/artifacts
+end_time: 1735137439746
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 6d2171c3de85412db27eec9b4014405c
+run_name: bustling-snail-440
+run_uuid: 6d2171c3de85412db27eec9b4014405c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137439637
+status: 3
+tags: []
+user_id: AKASH

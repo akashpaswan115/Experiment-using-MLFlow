@@ -25,15 +25,15 @@ param_grid = {
 # Applying GridSearchCV
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=2)
 
-# # # Run without MLflow from here
-# grid_search.fit(X_train, y_train)
+# # Run without MLflow from here
+grid_search.fit(X_train, y_train)
 
-# # Displaying the best params and best score
-# best_params = grid_search.best_params_
-# best_score = grid_search.best_score_
+# Displaying the best params and best score
+best_params = grid_search.best_params_
+best_score = grid_search.best_score_
 
-# print(best_params)
-# print(best_score)
+print(best_params)
+print(best_score)
 # # Till here
 
 

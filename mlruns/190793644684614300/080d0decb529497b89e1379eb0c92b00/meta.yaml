@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/080d0decb529497b89e1379eb0c92b00/artifacts
+end_time: 1735137747499
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 080d0decb529497b89e1379eb0c92b00
+run_name: nervous-doe-908
+run_uuid: 080d0decb529497b89e1379eb0c92b00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137712074
+status: 3
+tags: []
+user_id: AKASH

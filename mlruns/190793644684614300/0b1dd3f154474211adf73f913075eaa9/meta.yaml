@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/0b1dd3f154474211adf73f913075eaa9/artifacts
+end_time: 1735137438438
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 0b1dd3f154474211adf73f913075eaa9
+run_name: selective-bear-352
+run_uuid: 0b1dd3f154474211adf73f913075eaa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137438329
+status: 3
+tags: []
+user_id: AKASH

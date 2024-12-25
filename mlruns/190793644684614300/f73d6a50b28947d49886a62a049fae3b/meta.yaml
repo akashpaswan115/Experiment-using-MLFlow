@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/f73d6a50b28947d49886a62a049fae3b/artifacts
+end_time: 1735137438819
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: f73d6a50b28947d49886a62a049fae3b
+run_name: likeable-bat-447
+run_uuid: f73d6a50b28947d49886a62a049fae3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137438694
+status: 3
+tags: []
+user_id: AKASH

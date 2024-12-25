@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/d0f7d849891645328da995790a4b3448/artifacts
+end_time: 1735137438669
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: d0f7d849891645328da995790a4b3448
+run_name: wistful-chimp-921
+run_uuid: d0f7d849891645328da995790a4b3448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137438565
+status: 3
+tags: []
+user_id: AKASH

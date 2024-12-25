@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/Experiment-using-MLFlow/mlruns/190793644684614300/98036ea98aa746a9b770a74cb672257c/artifacts
+end_time: 1735137439074
+entry_point_name: ''
+experiment_id: '190793644684614300'
+lifecycle_stage: active
+run_id: 98036ea98aa746a9b770a74cb672257c
+run_name: sassy-wolf-703
+run_uuid: 98036ea98aa746a9b770a74cb672257c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735137438968
+status: 3
+tags: []
+user_id: AKASH
